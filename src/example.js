@@ -1,6 +1,5 @@
-const test = "this is a string with double quotes";
-console.log(test);
-let unusedVar = 123;
+const test = 'this is a string with single quotes';
+
 function myFunc() {
-  return 456
+  return 456;
 }
